@@ -1,7 +1,3 @@
-<?php 
-include "includes/header-fix.php";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +18,9 @@ include "includes/header-fix.php";
 </style>
 
 <body>
+<?php 
+include "includes/header-fix.php";
+?>    
 
 <div class="article-title" id="article-title">
     <div class="page-wrapper">
@@ -44,12 +43,12 @@ include "includes/header-fix.php";
         </div>
     </div>
 </div>
-    
-</body>
-</html>
 
 
 <?php 
 include "copy-right.php";
 include "includes/footer.php";
 ?>
+  
+</body>
+</html>

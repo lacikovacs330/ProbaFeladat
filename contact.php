@@ -1,7 +1,3 @@
-<?php 
-include "includes/header-fix.php"
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,6 +19,10 @@ include "includes/header-fix.php"
 </style>
 
 <body>
+
+<?php 
+include "includes/header-fix.php"
+?>    
 
 <div class="contact-title" id="contact-title">
     <div class="page-wrapper">
@@ -48,24 +48,24 @@ include "includes/header-fix.php"
             <div class="contact--text__container">
                 <h4>Székhely</h4>
                 <ul>
-                    <li><ion-icon name="location-outline"></ion-icon> 6723 Szeged Szent László utca 20. 1.em. 2.ajtó</li>
-                    <li><ion-icon name="mail-outline"></ion-icon> info@tenderteam.hu</li>
+                    <li><ion-icon name="location-outline"></ion-icon> 9200 Mosonmagyaróvár </li>
+                    <li><ion-icon name="mail-outline"></ion-icon> info@lacikovacs.hu</li>
                     <li><ion-icon name="time-outline"></ion-icon> Hétfő - Péntek 8:00-16:00</li>
                 </ul>
 
                 <h4>Webfejlesztés</h4>
-                <p>Petrov Adrián</p>
+                <p>Kovács László</p>
                 <ul>
-                    <li><ion-icon name="location-outline"></ion-icon> petrov.adrian@tenderteam.hu</li>
-                    <li><ion-icon name="call-outline"></ion-icon> +36-20-441-6198</li>
+                    <li><ion-icon name="location-outline"></ion-icon>lacikovacs330@gmail.com</li>
+                    <li><ion-icon name="call-outline"></ion-icon> +36-20-579-4154</li>
                 </ul>
 
                 
                 <h4>Pályázat</h4>
-                <p>Kovács Flóra</p>
+                <p>Kovács László</p>
                 <ul>
-                    <li><ion-icon name="location-outline"></ion-icon> kovacs.flora@tenderteam.hu</li>
-                    <li><ion-icon name="call-outline"></ion-icon> +36-30-208-3982</li>
+                    <li><ion-icon name="location-outline"></ion-icon> lacikovacs330@gmail.com</li>
+                    <li><ion-icon name="call-outline"></ion-icon> +36-20-579-4154</li>
                 </ul>
             </div>
         </div>
@@ -73,10 +73,11 @@ include "includes/header-fix.php"
 </div>
 
     
-</body>
-</html>
 
 <?php 
 include "copy-right.php";
 include "includes/footer.php";
 ?>
+
+</body>
+</html>
